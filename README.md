@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cats
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ... Coding
-- 📫 How to reach me ... No
+- 📫 How to reach me ... 
 
 <!---
 PloopyCatCoder2/PloopyCatCoder2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
